@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orexoipo.github.io/Iri/sitemap_index.txt
+Sitemap: https://orexoipo.github.io/YdU/sitemap_index.txt
+Sitemap: https://orexoipo.github.io/cyx/sitemap_index.txt
+Sitemap: https://orexoipo.github.io/iyV/sitemap_index.txt
